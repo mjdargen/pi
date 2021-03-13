@@ -7,7 +7,8 @@ https://dargen.io
 https://github.com/mjdargen  
 Created: March 13, 2021*  
 
----
+
+
 ## Table of Contents - Making Art, Games, and More with Pi and Python
 0. Install Dependencies and Download Files
 1. What is π?
